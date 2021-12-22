@@ -3,7 +3,6 @@ import Navbar from "./component/Navbar";
 import Home from "./component/Home";
 import Products from "./component/Products";
 import Product from "./component/Product";
-import Login from "./component/login/Login";
 import { Routes, Route} from "react-router-dom";
 function App() {
   return (
